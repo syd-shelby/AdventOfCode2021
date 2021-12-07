@@ -8,7 +8,6 @@ f.close()
 max = max(nums)
 min = min(nums)
 
-fuellist = [0] * (max-min+1)
 minfuel = -1
 pos = 0
 
